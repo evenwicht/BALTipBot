@@ -1,4 +1,4 @@
-The $BAL Tip Bot allows users to send the $BAL token to users using only their Twitter handle.
+The $BAL Tip Bot allows users to send the ERC-20 token $BAL to users using only their Twitter handle.
 
 
 Commands
@@ -15,4 +15,4 @@ DM Commands: The below commands are handled through sending a DM to @BALTipBot.
 
 Tweet Commands: Tips are sent through public tweets or retweets. These are processed in real time.
 
-    !tip: Send a tip of a specified amount to a user on Twitter. Example: !tip 1.01 @mitche50 will send a 1.01 BAL tip to user @mitche50.
+    !tip: Send a tip of a specified amount to a user on Twitter. Example: !tip 2 @lsalas81 will send a 2 $BAL tip to user @lsalas81.
